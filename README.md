@@ -1,4 +1,4 @@
-## My name is Cecília and my nickname is "Ceci"!
+## Hii there!! My name is Cecília and my nickname is "Ceci"!
 
 - 🔭 I’m currently working on A project of a CyberCoffee
 - 🌱 I’m currently learning PHP, Python 
