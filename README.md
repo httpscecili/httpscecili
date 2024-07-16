@@ -1,4 +1,4 @@
-<img src= ![octocat-1721154882766](https://github.com/user-attachments/assets/216d7a41-b93d-465d-8f25-e1115278f8cf) >
+Hiii!! You can call me Ceci!
 <div style="display: inline_block"><br>
   <img align="center" alt="Ceci-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ceci-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
