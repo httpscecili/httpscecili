@@ -1,7 +1,4 @@
-##Hiii!! You can call me Ceci!
-
-  
-  ##
+#Hiii!! You can call me Ceci!
  
 
 - 😄 Pronouns: She/Her  
