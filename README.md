@@ -10,14 +10,7 @@
   
   ##
  
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/coffeeslia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="[https://www.linkedin.com/in/cec%C3%ADlia-pereira-melga%C3%A7o-1aab5b1a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BnxQtfd65SSChrMHX1t0dTA%3D%3D]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
- 
+
 - 😄 Pronouns: She/Her  
 - 🔭 I’m currently working on A project of a CyberCoffee
 - 🌱 I’m currently learning PHP, Python  
@@ -26,4 +19,11 @@
  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/iceci.melgaco">
 <img src= "https://img.shields.io/twitch/status/coffeeslia?style=for-the-badge&logo=twitch")>
 
-
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/coffeeslia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/cec%C3%ADlia-pereira-melga%C3%A7o-1aab5b1a1/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BnxQtfd65SSChrMHX1t0dTA%3D%3D]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+ 
