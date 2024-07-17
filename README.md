@@ -12,13 +12,7 @@ Hiii!! You can call me Ceci!
   <img align="center" alt="Ceci-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ceci-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 </div>  
-<div>
 
-
-
-
- 
-</div>
 <div>
 <a href="[https://github.com/httpscecili]">
 <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?httpscecili&layout=compact&langs_count=7&theme=omni"/> <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?httpscecili&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
