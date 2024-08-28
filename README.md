@@ -13,7 +13,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://instagram.com/i.cecimelgaco" target="_blank">
+<a href="https://www.instagram.com/iceci.melgaco/" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/httpscecili/httpscecili/blob/main/assets/instagram-brands-solid.svg">
 </a>
 
