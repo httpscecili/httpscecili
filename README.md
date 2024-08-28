@@ -1,4 +1,4 @@
-<img width=100%  height=200px bottom=150px src="https://github.com/httpscecili/httpscecili/blob/main/tumblr_static_filename_640_v2.gif"
+<img width=100%  height=196 bottom=253px src="https://github.com/httpscecili/httpscecili/blob/main/tumblr_static_filename_640_v2.gif"
 />
 <br>
 <br> 
