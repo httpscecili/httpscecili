@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=httpscecili&theme=date-night&locale=pt_BR&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=httpscecili&theme=rose&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
